@@ -60,3 +60,7 @@ streamlit run app.py
 ## Example
 ![alt text](<img/Screenshot 2024-08-20 at 4.12.24 PM.png>)
  
+## Future Updates
+
+- make the code more dynamic
+- add exception handling
